@@ -1,0 +1,230 @@
+[
+  {
+    "name": "Facebook",
+    "domain": "facebook.com",
+    "profile_template": "https://www.facebook.com/$username",
+    "category": "Social Media"
+  },
+  {
+    "name": "Instagram",
+    "domain": "instagram.com",
+    "profile_template": "https://www.instagram.com/$username",
+    "category": "Social Media"
+  },
+  {
+    "name": "TikTok",
+    "domain": "tiktok.com",
+    "profile_template": "https://www.tiktok.com/@$username",
+    "category": "Social Media"
+  },
+  {
+    "name": "X (Twitter)",
+    "domain": "x.com",
+    "profile_template": "https://x.com/$username",
+    "category": "Social Media"
+  },
+  {
+    "name": "YouTube",
+    "domain": "youtube.com",
+    "profile_template": "https://www.youtube.com/@$username",
+    "category": "Video & Streaming"
+  },
+  {
+    "name": "Twitch",
+    "domain": "twitch.tv",
+    "profile_template": "https://www.twitch.tv/$username",
+    "category": "Video & Streaming"
+  },
+  {
+    "name": "Kick",
+    "domain": "kick.com",
+    "profile_template": "https://kick.com/$username",
+    "category": "Video & Streaming"
+  },
+  {
+    "name": "Reddit",
+    "domain": "reddit.com",
+    "profile_template": "https://www.reddit.com/user/$username",
+    "category": "Communities"
+  },
+  {
+    "name": "Pinterest",
+    "domain": "pinterest.com",
+    "profile_template": "https://www.pinterest.com/$username",
+    "category": "Social Media"
+  },
+  {
+    "name": "LinkedIn",
+    "domain": "linkedin.com",
+    "profile_template": "https://www.linkedin.com/in/$username",
+    "category": "Business"
+  },
+  {
+    "name": "GitHub",
+    "domain": "github.com",
+    "profile_template": "https://github.com/$username",
+    "category": "Developer"
+  },
+  {
+    "name": "GitLab",
+    "domain": "gitlab.com",
+    "profile_template": "https://gitlab.com/$username",
+    "category": "Developer"
+  },
+  {
+    "name": "Stack Overflow",
+    "domain": "stackoverflow.com",
+    "profile_template": "https://stackoverflow.com/users/$userId",
+    "category": "Knowledge & QnA"
+  },
+  {
+    "name": "Steam",
+    "domain": "steamcommunity.com",
+    "profile_template": "https://steamcommunity.com/id/$username",
+    "category": "Gaming"
+  },
+  {
+    "name": "Xbox",
+    "domain": "xbox.com",
+    "profile_template": "https://account.xbox.com/en-us/Profile?gamerTag=$username",
+    "category": "Gaming"
+  },
+  {
+    "name": "PlayStation Network",
+    "domain": "psnprofiles.com",
+    "profile_template": "https://psnprofiles.com/$username",
+    "category": "Gaming"
+  },
+  {
+    "name": "Roblox",
+    "domain": "roblox.com",
+    "profile_template": "https://www.roblox.com/users/$userId/profile",
+    "category": "Gaming"
+  },
+  {
+    "name": "Letterboxd",
+    "domain": "letterboxd.com",
+    "profile_template": "https://letterboxd.com/$username",
+    "category": "Media & Movies"
+  },
+  {
+    "name": "Goodreads",
+    "domain": "goodreads.com",
+    "profile_template": "https://www.goodreads.com/user/show/$userId",
+    "category": "Books"
+  },
+  {
+    "name": "Patreon",
+    "domain": "patreon.com",
+    "profile_template": "https://www.patreon.com/$username",
+    "category": "Creator Economy"
+  },
+  {
+    "name": "Ko-fi",
+    "domain": "ko-fi.com",
+    "profile_template": "https://ko-fi.com/$username",
+    "category": "Creator Economy"
+  },
+  {
+    "name": "OnlyFans",
+    "domain": "onlyfans.com",
+    "profile_template": "https://onlyfans.com/$username",
+    "category": "Creator Economy"
+  },
+  {
+    "name": "SoundCloud",
+    "domain": "soundcloud.com",
+    "profile_template": "https://soundcloud.com/$username",
+    "category": "Music"
+  },
+  {
+    "name": "Bandcamp",
+    "domain": "bandcamp.com",
+    "profile_template": "https://$username.bandcamp.com",
+    "category": "Music"
+  },
+  {
+    "name": "DeviantArt",
+    "domain": "deviantart.com",
+    "profile_template": "https://www.deviantart.com/$username",
+    "category": "Art"
+  },
+  {
+    "name": "Behance",
+    "domain": "behance.net",
+    "profile_template": "https://www.behance.net/$username",
+    "category": "Art & Design"
+  },
+  {
+    "name": "Dribbble",
+    "domain": "dribbble.com",
+    "profile_template": "https://dribbble.com/$username",
+    "category": "Art & Design"
+  },
+  {
+    "name": "Flickr",
+    "domain": "flickr.com",
+    "profile_template": "https://www.flickr.com/people/$username",
+    "category": "Photography"
+  },
+  {
+    "name": "MyAnimeList",
+    "domain": "myanimelist.net",
+    "profile_template": "https://myanimelist.net/profile/$username",
+    "category": "Anime"
+  },
+  {
+    "name": "AniList",
+    "domain": "anilist.co",
+    "profile_template": "https://anilist.co/user/$username",
+    "category": "Anime"
+  },
+  {
+    "name": "Strava",
+    "domain": "strava.com",
+    "profile_template": "https://www.strava.com/athletes/$userId",
+    "category": "Fitness"
+  },
+  {
+    "name": "Tripadvisor",
+    "domain": "tripadvisor.com",
+    "profile_template": "https://www.tripadvisor.com/Profile/$username",
+    "category": "Travel"
+  },
+  {
+    "name": "Etsy",
+    "domain": "etsy.com",
+    "profile_template": "https://www.etsy.com/shop/$username",
+    "category": "Commerce"
+  },
+  {
+    "name": "eBay",
+    "domain": "ebay.com",
+    "profile_template": "https://www.ebay.com/usr/$username",
+    "category": "Commerce"
+  },
+  {
+    "name": "Redbubble",
+    "domain": "redbubble.com",
+    "profile_template": "https://www.redbubble.com/people/$username",
+    "category": "Commerce"
+  },
+  {
+    "name": "Wikipedia",
+    "domain": "wikipedia.org",
+    "profile_template": "https://en.wikipedia.org/wiki/User:$username",
+    "category": "Knowledge"
+  },
+  {
+    "name": "ResearchGate",
+    "domain": "researchgate.net",
+    "profile_template": "https://www.researchgate.net/profile/$username",
+    "category": "Academia"
+  },
+  {
+    "name": "Academia.edu",
+    "domain": "academia.edu",
+    "profile_template": "https://independent.academia.edu/$username",
+    "category": "Academia"
+  }
+]
