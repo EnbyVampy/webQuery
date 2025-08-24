@@ -1,2999 +1,3998 @@
 [
-{
+  {
+    "website": {
       "website": "YouTube",
       "site-url": "youtube.com",
       "profile-url": "https://www.youtube.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Facebook",
       "site-url": "facebook.com",
       "profile-url": "https://www.facebook.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Instagram",
       "site-url": "instagram.com",
       "profile-url": "https://www.instagram.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Twitter / X",
       "site-url": "x.com",
       "profile-url": "https://x.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "TikTok",
       "site-url": "tiktok.com",
       "profile-url": "https://www.tiktok.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Reddit",
       "site-url": "reddit.com",
       "profile-url": "https://www.reddit.com/user/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "LinkedIn",
       "site-url": "linkedin.com",
       "profile-url": "https://www.linkedin.com/in/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "GitHub",
       "site-url": "github.com",
       "profile-url": "https://github.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "GitLab",
       "site-url": "gitlab.com",
       "profile-url": "https://gitlab.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Steam",
       "site-url": "steamcommunity.com",
       "profile-url": "https://steamcommunity.com/id/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Twitch",
       "site-url": "twitch.tv",
       "profile-url": "https://www.twitch.tv/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Pinterest",
       "site-url": "pinterest.com",
       "profile-url": "https://www.pinterest.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Snapchat",
       "site-url": "snapchat.com",
       "profile-url": "https://www.snapchat.com/add/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "DeviantArt",
       "site-url": "deviantart.com",
       "profile-url": "https://www.deviantart.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "SoundCloud",
       "site-url": "soundcloud.com",
       "profile-url": "https://soundcloud.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Medium",
       "site-url": "medium.com",
       "profile-url": "https://medium.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Stack Overflow",
       "site-url": "stackoverflow.com",
       "profile-url": "https://stackoverflow.com/users/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "MyAnimeList",
       "site-url": "myanimelist.net",
       "profile-url": "https://myanimelist.net/profile/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "PlayStation Network",
       "site-url": "my.playstation.com",
       "profile-url": "https://my.playstation.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Xbox Live",
       "site-url": "xbox.com",
       "profile-url": "https://account.xbox.com/en-us/profile?gamertag=$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "YouTube",
       "site-url": "youtube.com",
       "profile-url": "https://www.youtube.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Facebook",
       "site-url": "facebook.com",
       "profile-url": "https://www.facebook.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Instagram",
       "site-url": "instagram.com",
       "profile-url": "https://www.instagram.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Twitter / X",
       "site-url": "x.com",
       "profile-url": "https://x.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "TikTok",
       "site-url": "tiktok.com",
       "profile-url": "https://www.tiktok.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Reddit",
       "site-url": "reddit.com",
       "profile-url": "https://www.reddit.com/user/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "LinkedIn",
       "site-url": "linkedin.com",
       "profile-url": "https://www.linkedin.com/in/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "GitHub",
       "site-url": "github.com",
       "profile-url": "https://github.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "GitLab",
       "site-url": "gitlab.com",
       "profile-url": "https://gitlab.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Steam",
       "site-url": "steamcommunity.com",
       "profile-url": "https://steamcommunity.com/id/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Twitch",
       "site-url": "twitch.tv",
       "profile-url": "https://www.twitch.tv/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Pinterest",
       "site-url": "pinterest.com",
       "profile-url": "https://www.pinterest.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Snapchat",
       "site-url": "snapchat.com",
       "profile-url": "https://www.snapchat.com/add/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "DeviantArt",
       "site-url": "deviantart.com",
       "profile-url": "https://www.deviantart.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "SoundCloud",
       "site-url": "soundcloud.com",
       "profile-url": "https://soundcloud.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Medium",
       "site-url": "medium.com",
       "profile-url": "https://medium.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Stack Overflow",
       "site-url": "stackoverflow.com",
       "profile-url": "https://stackoverflow.com/users/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "MyAnimeList",
       "site-url": "myanimelist.net",
       "profile-url": "https://myanimelist.net/profile/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "PlayStation Network",
       "site-url": "my.playstation.com",
       "profile-url": "https://my.playstation.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Xbox Live",
       "site-url": "xbox.com",
       "profile-url": "https://account.xbox.com/en-us/profile?gamertag=$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "YouTube",
       "site-url": "youtube.com",
       "profile-url": "https://www.youtube.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Facebook",
       "site-url": "facebook.com",
       "profile-url": "https://www.facebook.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Instagram",
       "site-url": "instagram.com",
       "profile-url": "https://www.instagram.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Twitter / X",
       "site-url": "x.com",
       "profile-url": "https://x.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "TikTok",
       "site-url": "tiktok.com",
       "profile-url": "https://www.tiktok.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Reddit",
       "site-url": "reddit.com",
       "profile-url": "https://www.reddit.com/user/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "LinkedIn",
       "site-url": "linkedin.com",
       "profile-url": "https://www.linkedin.com/in/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "GitHub",
       "site-url": "github.com",
       "profile-url": "https://github.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "GitLab",
       "site-url": "gitlab.com",
       "profile-url": "https://gitlab.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Steam",
       "site-url": "steamcommunity.com",
       "profile-url": "https://steamcommunity.com/id/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Twitch",
       "site-url": "twitch.tv",
       "profile-url": "https://www.twitch.tv/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Pinterest",
       "site-url": "pinterest.com",
       "profile-url": "https://www.pinterest.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Snapchat",
       "site-url": "snapchat.com",
       "profile-url": "https://www.snapchat.com/add/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "DeviantArt",
       "site-url": "deviantart.com",
       "profile-url": "https://www.deviantart.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "SoundCloud",
       "site-url": "soundcloud.com",
       "profile-url": "https://soundcloud.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Medium",
       "site-url": "medium.com",
       "profile-url": "https://medium.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Stack Overflow",
       "site-url": "stackoverflow.com",
       "profile-url": "https://stackoverflow.com/users/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "MyAnimeList",
       "site-url": "myanimelist.net",
       "profile-url": "https://myanimelist.net/profile/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "PlayStation Network",
       "site-url": "my.playstation.com",
       "profile-url": "https://my.playstation.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Xbox Live",
       "site-url": "xbox.com",
       "profile-url": "https://account.xbox.com/en-us/profile?gamertag=$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "YouTube",
       "site-url": "youtube.com",
       "profile-url": "https://www.youtube.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Facebook",
       "site-url": "facebook.com",
       "profile-url": "https://www.facebook.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Instagram",
       "site-url": "instagram.com",
       "profile-url": "https://www.instagram.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Twitter / X",
       "site-url": "x.com",
       "profile-url": "https://x.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "TikTok",
       "site-url": "tiktok.com",
       "profile-url": "https://www.tiktok.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Reddit",
       "site-url": "reddit.com",
       "profile-url": "https://www.reddit.com/user/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "LinkedIn",
       "site-url": "linkedin.com",
       "profile-url": "https://www.linkedin.com/in/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "GitHub",
       "site-url": "github.com",
       "profile-url": "https://github.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "GitLab",
       "site-url": "gitlab.com",
       "profile-url": "https://gitlab.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Steam",
       "site-url": "steamcommunity.com",
       "profile-url": "https://steamcommunity.com/id/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Twitch",
       "site-url": "twitch.tv",
       "profile-url": "https://www.twitch.tv/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Pinterest",
       "site-url": "pinterest.com",
       "profile-url": "https://www.pinterest.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Snapchat",
       "site-url": "snapchat.com",
       "profile-url": "https://www.snapchat.com/add/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "DeviantArt",
       "site-url": "deviantart.com",
       "profile-url": "https://www.deviantart.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "SoundCloud",
       "site-url": "soundcloud.com",
       "profile-url": "https://soundcloud.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Medium",
       "site-url": "medium.com",
       "profile-url": "https://medium.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Stack Overflow",
       "site-url": "stackoverflow.com",
       "profile-url": "https://stackoverflow.com/users/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "MyAnimeList",
       "site-url": "myanimelist.net",
       "profile-url": "https://myanimelist.net/profile/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "PlayStation Network",
       "site-url": "my.playstation.com",
       "profile-url": "https://my.playstation.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Xbox Live",
       "site-url": "xbox.com",
       "profile-url": "https://account.xbox.com/en-us/profile?gamertag=$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "YouTube",
       "site-url": "youtube.com",
       "profile-url": "https://www.youtube.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Facebook",
       "site-url": "facebook.com",
       "profile-url": "https://www.facebook.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Instagram",
       "site-url": "instagram.com",
       "profile-url": "https://www.instagram.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Twitter / X",
       "site-url": "x.com",
       "profile-url": "https://x.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "TikTok",
       "site-url": "tiktok.com",
       "profile-url": "https://www.tiktok.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Reddit",
       "site-url": "reddit.com",
       "profile-url": "https://www.reddit.com/user/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "LinkedIn",
       "site-url": "linkedin.com",
       "profile-url": "https://www.linkedin.com/in/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "GitHub",
       "site-url": "github.com",
       "profile-url": "https://github.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "GitLab",
       "site-url": "gitlab.com",
       "profile-url": "https://gitlab.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Steam",
       "site-url": "steamcommunity.com",
       "profile-url": "https://steamcommunity.com/id/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Twitch",
       "site-url": "twitch.tv",
       "profile-url": "https://www.twitch.tv/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Pinterest",
       "site-url": "pinterest.com",
       "profile-url": "https://www.pinterest.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Snapchat",
       "site-url": "snapchat.com",
       "profile-url": "https://www.snapchat.com/add/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "DeviantArt",
       "site-url": "deviantart.com",
       "profile-url": "https://www.deviantart.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "SoundCloud",
       "site-url": "soundcloud.com",
       "profile-url": "https://soundcloud.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Medium",
       "site-url": "medium.com",
       "profile-url": "https://medium.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Stack Overflow",
       "site-url": "stackoverflow.com",
       "profile-url": "https://stackoverflow.com/users/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "MyAnimeList",
       "site-url": "myanimelist.net",
       "profile-url": "https://myanimelist.net/profile/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "PlayStation Network",
       "site-url": "my.playstation.com",
       "profile-url": "https://my.playstation.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Xbox Live",
       "site-url": "xbox.com",
       "profile-url": "https://account.xbox.com/en-us/profile?gamertag=$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "YouTube",
       "site-url": "youtube.com",
       "profile-url": "https://www.youtube.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Facebook",
       "site-url": "facebook.com",
       "profile-url": "https://www.facebook.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Instagram",
       "site-url": "instagram.com",
       "profile-url": "https://www.instagram.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Twitter / X",
       "site-url": "x.com",
       "profile-url": "https://x.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "TikTok",
       "site-url": "tiktok.com",
       "profile-url": "https://www.tiktok.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Reddit",
       "site-url": "reddit.com",
       "profile-url": "https://www.reddit.com/user/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "LinkedIn",
       "site-url": "linkedin.com",
       "profile-url": "https://www.linkedin.com/in/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "GitHub",
       "site-url": "github.com",
       "profile-url": "https://github.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "GitLab",
       "site-url": "gitlab.com",
       "profile-url": "https://gitlab.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Steam",
       "site-url": "steamcommunity.com",
       "profile-url": "https://steamcommunity.com/id/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Twitch",
       "site-url": "twitch.tv",
       "profile-url": "https://www.twitch.tv/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Pinterest",
       "site-url": "pinterest.com",
       "profile-url": "https://www.pinterest.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Snapchat",
       "site-url": "snapchat.com",
       "profile-url": "https://www.snapchat.com/add/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "DeviantArt",
       "site-url": "deviantart.com",
       "profile-url": "https://www.deviantart.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "SoundCloud",
       "site-url": "soundcloud.com",
       "profile-url": "https://soundcloud.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Medium",
       "site-url": "medium.com",
       "profile-url": "https://medium.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Stack Overflow",
       "site-url": "stackoverflow.com",
       "profile-url": "https://stackoverflow.com/users/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "MyAnimeList",
       "site-url": "myanimelist.net",
       "profile-url": "https://myanimelist.net/profile/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "PlayStation Network",
       "site-url": "my.playstation.com",
       "profile-url": "https://my.playstation.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Xbox Live",
       "site-url": "xbox.com",
       "profile-url": "https://account.xbox.com/en-us/profile?gamertag=$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "YouTube",
       "site-url": "youtube.com",
       "profile-url": "https://www.youtube.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Facebook",
       "site-url": "facebook.com",
       "profile-url": "https://www.facebook.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Instagram",
       "site-url": "instagram.com",
       "profile-url": "https://www.instagram.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Twitter / X",
       "site-url": "x.com",
       "profile-url": "https://x.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "TikTok",
       "site-url": "tiktok.com",
       "profile-url": "https://www.tiktok.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Reddit",
       "site-url": "reddit.com",
       "profile-url": "https://www.reddit.com/user/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "LinkedIn",
       "site-url": "linkedin.com",
       "profile-url": "https://www.linkedin.com/in/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "GitHub",
       "site-url": "github.com",
       "profile-url": "https://github.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "GitLab",
       "site-url": "gitlab.com",
       "profile-url": "https://gitlab.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Steam",
       "site-url": "steamcommunity.com",
       "profile-url": "https://steamcommunity.com/id/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Twitch",
       "site-url": "twitch.tv",
       "profile-url": "https://www.twitch.tv/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Pinterest",
       "site-url": "pinterest.com",
       "profile-url": "https://www.pinterest.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Snapchat",
       "site-url": "snapchat.com",
       "profile-url": "https://www.snapchat.com/add/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "DeviantArt",
       "site-url": "deviantart.com",
       "profile-url": "https://www.deviantart.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "SoundCloud",
       "site-url": "soundcloud.com",
       "profile-url": "https://soundcloud.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Medium",
       "site-url": "medium.com",
       "profile-url": "https://medium.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Stack Overflow",
       "site-url": "stackoverflow.com",
       "profile-url": "https://stackoverflow.com/users/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "MyAnimeList",
       "site-url": "myanimelist.net",
       "profile-url": "https://myanimelist.net/profile/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "PlayStation Network",
       "site-url": "my.playstation.com",
       "profile-url": "https://my.playstation.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Xbox Live",
       "site-url": "xbox.com",
       "profile-url": "https://account.xbox.com/en-us/profile?gamertag=$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "YouTube",
       "site-url": "youtube.com",
       "profile-url": "https://www.youtube.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Facebook",
       "site-url": "facebook.com",
       "profile-url": "https://www.facebook.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Instagram",
       "site-url": "instagram.com",
       "profile-url": "https://www.instagram.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Twitter / X",
       "site-url": "x.com",
       "profile-url": "https://x.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "TikTok",
       "site-url": "tiktok.com",
       "profile-url": "https://www.tiktok.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Reddit",
       "site-url": "reddit.com",
       "profile-url": "https://www.reddit.com/user/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "LinkedIn",
       "site-url": "linkedin.com",
       "profile-url": "https://www.linkedin.com/in/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "GitHub",
       "site-url": "github.com",
       "profile-url": "https://github.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "GitLab",
       "site-url": "gitlab.com",
       "profile-url": "https://gitlab.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Steam",
       "site-url": "steamcommunity.com",
       "profile-url": "https://steamcommunity.com/id/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Twitch",
       "site-url": "twitch.tv",
       "profile-url": "https://www.twitch.tv/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Pinterest",
       "site-url": "pinterest.com",
       "profile-url": "https://www.pinterest.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Snapchat",
       "site-url": "snapchat.com",
       "profile-url": "https://www.snapchat.com/add/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "DeviantArt",
       "site-url": "deviantart.com",
       "profile-url": "https://www.deviantart.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "SoundCloud",
       "site-url": "soundcloud.com",
       "profile-url": "https://soundcloud.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Medium",
       "site-url": "medium.com",
       "profile-url": "https://medium.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Stack Overflow",
       "site-url": "stackoverflow.com",
       "profile-url": "https://stackoverflow.com/users/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "MyAnimeList",
       "site-url": "myanimelist.net",
       "profile-url": "https://myanimelist.net/profile/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "PlayStation Network",
       "site-url": "my.playstation.com",
       "profile-url": "https://my.playstation.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Xbox Live",
       "site-url": "xbox.com",
       "profile-url": "https://account.xbox.com/en-us/profile?gamertag=$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "YouTube",
       "site-url": "youtube.com",
       "profile-url": "https://www.youtube.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Facebook",
       "site-url": "facebook.com",
       "profile-url": "https://www.facebook.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Instagram",
       "site-url": "instagram.com",
       "profile-url": "https://www.instagram.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Twitter / X",
       "site-url": "x.com",
       "profile-url": "https://x.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "TikTok",
       "site-url": "tiktok.com",
       "profile-url": "https://www.tiktok.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Reddit",
       "site-url": "reddit.com",
       "profile-url": "https://www.reddit.com/user/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "LinkedIn",
       "site-url": "linkedin.com",
       "profile-url": "https://www.linkedin.com/in/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "GitHub",
       "site-url": "github.com",
       "profile-url": "https://github.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "GitLab",
       "site-url": "gitlab.com",
       "profile-url": "https://gitlab.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Steam",
       "site-url": "steamcommunity.com",
       "profile-url": "https://steamcommunity.com/id/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Twitch",
       "site-url": "twitch.tv",
       "profile-url": "https://www.twitch.tv/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Pinterest",
       "site-url": "pinterest.com",
       "profile-url": "https://www.pinterest.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Snapchat",
       "site-url": "snapchat.com",
       "profile-url": "https://www.snapchat.com/add/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "DeviantArt",
       "site-url": "deviantart.com",
       "profile-url": "https://www.deviantart.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "SoundCloud",
       "site-url": "soundcloud.com",
       "profile-url": "https://soundcloud.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Medium",
       "site-url": "medium.com",
       "profile-url": "https://medium.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Stack Overflow",
       "site-url": "stackoverflow.com",
       "profile-url": "https://stackoverflow.com/users/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "MyAnimeList",
       "site-url": "myanimelist.net",
       "profile-url": "https://myanimelist.net/profile/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "PlayStation Network",
       "site-url": "my.playstation.com",
       "profile-url": "https://my.playstation.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Xbox Live",
       "site-url": "xbox.com",
       "profile-url": "https://account.xbox.com/en-us/profile?gamertag=$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "YouTube",
       "site-url": "youtube.com",
       "profile-url": "https://www.youtube.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Facebook",
       "site-url": "facebook.com",
       "profile-url": "https://www.facebook.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Instagram",
       "site-url": "instagram.com",
       "profile-url": "https://www.instagram.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Twitter / X",
       "site-url": "x.com",
       "profile-url": "https://x.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "TikTok",
       "site-url": "tiktok.com",
       "profile-url": "https://www.tiktok.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Reddit",
       "site-url": "reddit.com",
       "profile-url": "https://www.reddit.com/user/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "LinkedIn",
       "site-url": "linkedin.com",
       "profile-url": "https://www.linkedin.com/in/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "GitHub",
       "site-url": "github.com",
       "profile-url": "https://github.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "GitLab",
       "site-url": "gitlab.com",
       "profile-url": "https://gitlab.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Steam",
       "site-url": "steamcommunity.com",
       "profile-url": "https://steamcommunity.com/id/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Twitch",
       "site-url": "twitch.tv",
       "profile-url": "https://www.twitch.tv/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Pinterest",
       "site-url": "pinterest.com",
       "profile-url": "https://www.pinterest.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Snapchat",
       "site-url": "snapchat.com",
       "profile-url": "https://www.snapchat.com/add/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "DeviantArt",
       "site-url": "deviantart.com",
       "profile-url": "https://www.deviantart.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "SoundCloud",
       "site-url": "soundcloud.com",
       "profile-url": "https://soundcloud.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Medium",
       "site-url": "medium.com",
       "profile-url": "https://medium.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Stack Overflow",
       "site-url": "stackoverflow.com",
       "profile-url": "https://stackoverflow.com/users/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "MyAnimeList",
       "site-url": "myanimelist.net",
       "profile-url": "https://myanimelist.net/profile/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "PlayStation Network",
       "site-url": "my.playstation.com",
       "profile-url": "https://my.playstation.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Xbox Live",
       "site-url": "xbox.com",
       "profile-url": "https://account.xbox.com/en-us/profile?gamertag=$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "YouTube",
       "site-url": "youtube.com",
       "profile-url": "https://www.youtube.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Facebook",
       "site-url": "facebook.com",
       "profile-url": "https://www.facebook.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Instagram",
       "site-url": "instagram.com",
       "profile-url": "https://www.instagram.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Twitter / X",
       "site-url": "x.com",
       "profile-url": "https://x.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "TikTok",
       "site-url": "tiktok.com",
       "profile-url": "https://www.tiktok.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Reddit",
       "site-url": "reddit.com",
       "profile-url": "https://www.reddit.com/user/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "LinkedIn",
       "site-url": "linkedin.com",
       "profile-url": "https://www.linkedin.com/in/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "GitHub",
       "site-url": "github.com",
       "profile-url": "https://github.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "GitLab",
       "site-url": "gitlab.com",
       "profile-url": "https://gitlab.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Steam",
       "site-url": "steamcommunity.com",
       "profile-url": "https://steamcommunity.com/id/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Twitch",
       "site-url": "twitch.tv",
       "profile-url": "https://www.twitch.tv/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Pinterest",
       "site-url": "pinterest.com",
       "profile-url": "https://www.pinterest.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Snapchat",
       "site-url": "snapchat.com",
       "profile-url": "https://www.snapchat.com/add/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "DeviantArt",
       "site-url": "deviantart.com",
       "profile-url": "https://www.deviantart.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "SoundCloud",
       "site-url": "soundcloud.com",
       "profile-url": "https://soundcloud.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Medium",
       "site-url": "medium.com",
       "profile-url": "https://medium.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Stack Overflow",
       "site-url": "stackoverflow.com",
       "profile-url": "https://stackoverflow.com/users/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "MyAnimeList",
       "site-url": "myanimelist.net",
       "profile-url": "https://myanimelist.net/profile/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "PlayStation Network",
       "site-url": "my.playstation.com",
       "profile-url": "https://my.playstation.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Xbox Live",
       "site-url": "xbox.com",
       "profile-url": "https://account.xbox.com/en-us/profile?gamertag=$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "YouTube",
       "site-url": "youtube.com",
       "profile-url": "https://www.youtube.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Facebook",
       "site-url": "facebook.com",
       "profile-url": "https://www.facebook.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Instagram",
       "site-url": "instagram.com",
       "profile-url": "https://www.instagram.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Twitter / X",
       "site-url": "x.com",
       "profile-url": "https://x.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "TikTok",
       "site-url": "tiktok.com",
       "profile-url": "https://www.tiktok.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Reddit",
       "site-url": "reddit.com",
       "profile-url": "https://www.reddit.com/user/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "LinkedIn",
       "site-url": "linkedin.com",
       "profile-url": "https://www.linkedin.com/in/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "GitHub",
       "site-url": "github.com",
       "profile-url": "https://github.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "GitLab",
       "site-url": "gitlab.com",
       "profile-url": "https://gitlab.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Steam",
       "site-url": "steamcommunity.com",
       "profile-url": "https://steamcommunity.com/id/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Twitch",
       "site-url": "twitch.tv",
       "profile-url": "https://www.twitch.tv/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Pinterest",
       "site-url": "pinterest.com",
       "profile-url": "https://www.pinterest.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Snapchat",
       "site-url": "snapchat.com",
       "profile-url": "https://www.snapchat.com/add/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "DeviantArt",
       "site-url": "deviantart.com",
       "profile-url": "https://www.deviantart.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "SoundCloud",
       "site-url": "soundcloud.com",
       "profile-url": "https://soundcloud.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Medium",
       "site-url": "medium.com",
       "profile-url": "https://medium.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Stack Overflow",
       "site-url": "stackoverflow.com",
       "profile-url": "https://stackoverflow.com/users/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "MyAnimeList",
       "site-url": "myanimelist.net",
       "profile-url": "https://myanimelist.net/profile/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "PlayStation Network",
       "site-url": "my.playstation.com",
       "profile-url": "https://my.playstation.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Xbox Live",
       "site-url": "xbox.com",
       "profile-url": "https://account.xbox.com/en-us/profile?gamertag=$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "YouTube",
       "site-url": "youtube.com",
       "profile-url": "https://www.youtube.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Facebook",
       "site-url": "facebook.com",
       "profile-url": "https://www.facebook.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Instagram",
       "site-url": "instagram.com",
       "profile-url": "https://www.instagram.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Twitter / X",
       "site-url": "x.com",
       "profile-url": "https://x.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "TikTok",
       "site-url": "tiktok.com",
       "profile-url": "https://www.tiktok.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Reddit",
       "site-url": "reddit.com",
       "profile-url": "https://www.reddit.com/user/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "LinkedIn",
       "site-url": "linkedin.com",
       "profile-url": "https://www.linkedin.com/in/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "GitHub",
       "site-url": "github.com",
       "profile-url": "https://github.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "GitLab",
       "site-url": "gitlab.com",
       "profile-url": "https://gitlab.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Steam",
       "site-url": "steamcommunity.com",
       "profile-url": "https://steamcommunity.com/id/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Twitch",
       "site-url": "twitch.tv",
       "profile-url": "https://www.twitch.tv/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Pinterest",
       "site-url": "pinterest.com",
       "profile-url": "https://www.pinterest.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Snapchat",
       "site-url": "snapchat.com",
       "profile-url": "https://www.snapchat.com/add/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "DeviantArt",
       "site-url": "deviantart.com",
       "profile-url": "https://www.deviantart.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "SoundCloud",
       "site-url": "soundcloud.com",
       "profile-url": "https://soundcloud.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Medium",
       "site-url": "medium.com",
       "profile-url": "https://medium.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Stack Overflow",
       "site-url": "stackoverflow.com",
       "profile-url": "https://stackoverflow.com/users/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "MyAnimeList",
       "site-url": "myanimelist.net",
       "profile-url": "https://myanimelist.net/profile/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "PlayStation Network",
       "site-url": "my.playstation.com",
       "profile-url": "https://my.playstation.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Xbox Live",
       "site-url": "xbox.com",
       "profile-url": "https://account.xbox.com/en-us/profile?gamertag=$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "YouTube",
       "site-url": "youtube.com",
       "profile-url": "https://www.youtube.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Facebook",
       "site-url": "facebook.com",
       "profile-url": "https://www.facebook.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Instagram",
       "site-url": "instagram.com",
       "profile-url": "https://www.instagram.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Twitter / X",
       "site-url": "x.com",
       "profile-url": "https://x.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "TikTok",
       "site-url": "tiktok.com",
       "profile-url": "https://www.tiktok.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Reddit",
       "site-url": "reddit.com",
       "profile-url": "https://www.reddit.com/user/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "LinkedIn",
       "site-url": "linkedin.com",
       "profile-url": "https://www.linkedin.com/in/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "GitHub",
       "site-url": "github.com",
       "profile-url": "https://github.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "GitLab",
       "site-url": "gitlab.com",
       "profile-url": "https://gitlab.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Steam",
       "site-url": "steamcommunity.com",
       "profile-url": "https://steamcommunity.com/id/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Twitch",
       "site-url": "twitch.tv",
       "profile-url": "https://www.twitch.tv/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Pinterest",
       "site-url": "pinterest.com",
       "profile-url": "https://www.pinterest.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Snapchat",
       "site-url": "snapchat.com",
       "profile-url": "https://www.snapchat.com/add/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "DeviantArt",
       "site-url": "deviantart.com",
       "profile-url": "https://www.deviantart.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "SoundCloud",
       "site-url": "soundcloud.com",
       "profile-url": "https://soundcloud.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Medium",
       "site-url": "medium.com",
       "profile-url": "https://medium.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Stack Overflow",
       "site-url": "stackoverflow.com",
       "profile-url": "https://stackoverflow.com/users/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "MyAnimeList",
       "site-url": "myanimelist.net",
       "profile-url": "https://myanimelist.net/profile/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "PlayStation Network",
       "site-url": "my.playstation.com",
       "profile-url": "https://my.playstation.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Xbox Live",
       "site-url": "xbox.com",
       "profile-url": "https://account.xbox.com/en-us/profile?gamertag=$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "YouTube",
       "site-url": "youtube.com",
       "profile-url": "https://www.youtube.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Facebook",
       "site-url": "facebook.com",
       "profile-url": "https://www.facebook.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Instagram",
       "site-url": "instagram.com",
       "profile-url": "https://www.instagram.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Twitter / X",
       "site-url": "x.com",
       "profile-url": "https://x.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "TikTok",
       "site-url": "tiktok.com",
       "profile-url": "https://www.tiktok.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Reddit",
       "site-url": "reddit.com",
       "profile-url": "https://www.reddit.com/user/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "LinkedIn",
       "site-url": "linkedin.com",
       "profile-url": "https://www.linkedin.com/in/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "GitHub",
       "site-url": "github.com",
       "profile-url": "https://github.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "GitLab",
       "site-url": "gitlab.com",
       "profile-url": "https://gitlab.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Steam",
       "site-url": "steamcommunity.com",
       "profile-url": "https://steamcommunity.com/id/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Twitch",
       "site-url": "twitch.tv",
       "profile-url": "https://www.twitch.tv/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Pinterest",
       "site-url": "pinterest.com",
       "profile-url": "https://www.pinterest.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Snapchat",
       "site-url": "snapchat.com",
       "profile-url": "https://www.snapchat.com/add/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "DeviantArt",
       "site-url": "deviantart.com",
       "profile-url": "https://www.deviantart.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "SoundCloud",
       "site-url": "soundcloud.com",
       "profile-url": "https://soundcloud.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Medium",
       "site-url": "medium.com",
       "profile-url": "https://medium.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Stack Overflow",
       "site-url": "stackoverflow.com",
       "profile-url": "https://stackoverflow.com/users/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "MyAnimeList",
       "site-url": "myanimelist.net",
       "profile-url": "https://myanimelist.net/profile/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "PlayStation Network",
       "site-url": "my.playstation.com",
       "profile-url": "https://my.playstation.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Xbox Live",
       "site-url": "xbox.com",
       "profile-url": "https://account.xbox.com/en-us/profile?gamertag=$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "YouTube",
       "site-url": "youtube.com",
       "profile-url": "https://www.youtube.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Facebook",
       "site-url": "facebook.com",
       "profile-url": "https://www.facebook.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Instagram",
       "site-url": "instagram.com",
       "profile-url": "https://www.instagram.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Twitter / X",
       "site-url": "x.com",
       "profile-url": "https://x.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "TikTok",
       "site-url": "tiktok.com",
       "profile-url": "https://www.tiktok.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Reddit",
       "site-url": "reddit.com",
       "profile-url": "https://www.reddit.com/user/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "LinkedIn",
       "site-url": "linkedin.com",
       "profile-url": "https://www.linkedin.com/in/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "GitHub",
       "site-url": "github.com",
       "profile-url": "https://github.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "GitLab",
       "site-url": "gitlab.com",
       "profile-url": "https://gitlab.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Steam",
       "site-url": "steamcommunity.com",
       "profile-url": "https://steamcommunity.com/id/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Twitch",
       "site-url": "twitch.tv",
       "profile-url": "https://www.twitch.tv/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Pinterest",
       "site-url": "pinterest.com",
       "profile-url": "https://www.pinterest.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Snapchat",
       "site-url": "snapchat.com",
       "profile-url": "https://www.snapchat.com/add/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "DeviantArt",
       "site-url": "deviantart.com",
       "profile-url": "https://www.deviantart.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "SoundCloud",
       "site-url": "soundcloud.com",
       "profile-url": "https://soundcloud.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Medium",
       "site-url": "medium.com",
       "profile-url": "https://medium.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Stack Overflow",
       "site-url": "stackoverflow.com",
       "profile-url": "https://stackoverflow.com/users/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "MyAnimeList",
       "site-url": "myanimelist.net",
       "profile-url": "https://myanimelist.net/profile/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "PlayStation Network",
       "site-url": "my.playstation.com",
       "profile-url": "https://my.playstation.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Xbox Live",
       "site-url": "xbox.com",
       "profile-url": "https://account.xbox.com/en-us/profile?gamertag=$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "YouTube",
       "site-url": "youtube.com",
       "profile-url": "https://www.youtube.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Facebook",
       "site-url": "facebook.com",
       "profile-url": "https://www.facebook.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Instagram",
       "site-url": "instagram.com",
       "profile-url": "https://www.instagram.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Twitter / X",
       "site-url": "x.com",
       "profile-url": "https://x.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "TikTok",
       "site-url": "tiktok.com",
       "profile-url": "https://www.tiktok.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Reddit",
       "site-url": "reddit.com",
       "profile-url": "https://www.reddit.com/user/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "LinkedIn",
       "site-url": "linkedin.com",
       "profile-url": "https://www.linkedin.com/in/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "GitHub",
       "site-url": "github.com",
       "profile-url": "https://github.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "GitLab",
       "site-url": "gitlab.com",
       "profile-url": "https://gitlab.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Steam",
       "site-url": "steamcommunity.com",
       "profile-url": "https://steamcommunity.com/id/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Twitch",
       "site-url": "twitch.tv",
       "profile-url": "https://www.twitch.tv/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Pinterest",
       "site-url": "pinterest.com",
       "profile-url": "https://www.pinterest.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Snapchat",
       "site-url": "snapchat.com",
       "profile-url": "https://www.snapchat.com/add/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "DeviantArt",
       "site-url": "deviantart.com",
       "profile-url": "https://www.deviantart.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "SoundCloud",
       "site-url": "soundcloud.com",
       "profile-url": "https://soundcloud.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Medium",
       "site-url": "medium.com",
       "profile-url": "https://medium.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Stack Overflow",
       "site-url": "stackoverflow.com",
       "profile-url": "https://stackoverflow.com/users/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "MyAnimeList",
       "site-url": "myanimelist.net",
       "profile-url": "https://myanimelist.net/profile/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "PlayStation Network",
       "site-url": "my.playstation.com",
       "profile-url": "https://my.playstation.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Xbox Live",
       "site-url": "xbox.com",
       "profile-url": "https://account.xbox.com/en-us/profile?gamertag=$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "YouTube",
       "site-url": "youtube.com",
       "profile-url": "https://www.youtube.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Facebook",
       "site-url": "facebook.com",
       "profile-url": "https://www.facebook.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Instagram",
       "site-url": "instagram.com",
       "profile-url": "https://www.instagram.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Twitter / X",
       "site-url": "x.com",
       "profile-url": "https://x.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "TikTok",
       "site-url": "tiktok.com",
       "profile-url": "https://www.tiktok.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Reddit",
       "site-url": "reddit.com",
       "profile-url": "https://www.reddit.com/user/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "LinkedIn",
       "site-url": "linkedin.com",
       "profile-url": "https://www.linkedin.com/in/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "GitHub",
       "site-url": "github.com",
       "profile-url": "https://github.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "GitLab",
       "site-url": "gitlab.com",
       "profile-url": "https://gitlab.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Steam",
       "site-url": "steamcommunity.com",
       "profile-url": "https://steamcommunity.com/id/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Twitch",
       "site-url": "twitch.tv",
       "profile-url": "https://www.twitch.tv/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Pinterest",
       "site-url": "pinterest.com",
       "profile-url": "https://www.pinterest.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Snapchat",
       "site-url": "snapchat.com",
       "profile-url": "https://www.snapchat.com/add/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "DeviantArt",
       "site-url": "deviantart.com",
       "profile-url": "https://www.deviantart.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "SoundCloud",
       "site-url": "soundcloud.com",
       "profile-url": "https://soundcloud.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Medium",
       "site-url": "medium.com",
       "profile-url": "https://medium.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Stack Overflow",
       "site-url": "stackoverflow.com",
       "profile-url": "https://stackoverflow.com/users/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "MyAnimeList",
       "site-url": "myanimelist.net",
       "profile-url": "https://myanimelist.net/profile/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "PlayStation Network",
       "site-url": "my.playstation.com",
       "profile-url": "https://my.playstation.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Xbox Live",
       "site-url": "xbox.com",
       "profile-url": "https://account.xbox.com/en-us/profile?gamertag=$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "YouTube",
       "site-url": "youtube.com",
       "profile-url": "https://www.youtube.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Facebook",
       "site-url": "facebook.com",
       "profile-url": "https://www.facebook.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Instagram",
       "site-url": "instagram.com",
       "profile-url": "https://www.instagram.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Twitter / X",
       "site-url": "x.com",
       "profile-url": "https://x.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "TikTok",
       "site-url": "tiktok.com",
       "profile-url": "https://www.tiktok.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Reddit",
       "site-url": "reddit.com",
       "profile-url": "https://www.reddit.com/user/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "LinkedIn",
       "site-url": "linkedin.com",
       "profile-url": "https://www.linkedin.com/in/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "GitHub",
       "site-url": "github.com",
       "profile-url": "https://github.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "GitLab",
       "site-url": "gitlab.com",
       "profile-url": "https://gitlab.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Steam",
       "site-url": "steamcommunity.com",
       "profile-url": "https://steamcommunity.com/id/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Twitch",
       "site-url": "twitch.tv",
       "profile-url": "https://www.twitch.tv/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Pinterest",
       "site-url": "pinterest.com",
       "profile-url": "https://www.pinterest.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Snapchat",
       "site-url": "snapchat.com",
       "profile-url": "https://www.snapchat.com/add/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "DeviantArt",
       "site-url": "deviantart.com",
       "profile-url": "https://www.deviantart.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "SoundCloud",
       "site-url": "soundcloud.com",
       "profile-url": "https://soundcloud.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Medium",
       "site-url": "medium.com",
       "profile-url": "https://medium.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Stack Overflow",
       "site-url": "stackoverflow.com",
       "profile-url": "https://stackoverflow.com/users/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "MyAnimeList",
       "site-url": "myanimelist.net",
       "profile-url": "https://myanimelist.net/profile/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "PlayStation Network",
       "site-url": "my.playstation.com",
       "profile-url": "https://my.playstation.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Xbox Live",
       "site-url": "xbox.com",
       "profile-url": "https://account.xbox.com/en-us/profile?gamertag=$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "YouTube",
       "site-url": "youtube.com",
       "profile-url": "https://www.youtube.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Facebook",
       "site-url": "facebook.com",
       "profile-url": "https://www.facebook.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Instagram",
       "site-url": "instagram.com",
       "profile-url": "https://www.instagram.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Twitter / X",
       "site-url": "x.com",
       "profile-url": "https://x.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "TikTok",
       "site-url": "tiktok.com",
       "profile-url": "https://www.tiktok.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Reddit",
       "site-url": "reddit.com",
       "profile-url": "https://www.reddit.com/user/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "LinkedIn",
       "site-url": "linkedin.com",
       "profile-url": "https://www.linkedin.com/in/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "GitHub",
       "site-url": "github.com",
       "profile-url": "https://github.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "GitLab",
       "site-url": "gitlab.com",
       "profile-url": "https://gitlab.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Steam",
       "site-url": "steamcommunity.com",
       "profile-url": "https://steamcommunity.com/id/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Twitch",
       "site-url": "twitch.tv",
       "profile-url": "https://www.twitch.tv/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Pinterest",
       "site-url": "pinterest.com",
       "profile-url": "https://www.pinterest.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Snapchat",
       "site-url": "snapchat.com",
       "profile-url": "https://www.snapchat.com/add/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "DeviantArt",
       "site-url": "deviantart.com",
       "profile-url": "https://www.deviantart.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "SoundCloud",
       "site-url": "soundcloud.com",
       "profile-url": "https://soundcloud.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Medium",
       "site-url": "medium.com",
       "profile-url": "https://medium.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Stack Overflow",
       "site-url": "stackoverflow.com",
       "profile-url": "https://stackoverflow.com/users/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "MyAnimeList",
       "site-url": "myanimelist.net",
       "profile-url": "https://myanimelist.net/profile/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "PlayStation Network",
       "site-url": "my.playstation.com",
       "profile-url": "https://my.playstation.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Xbox Live",
       "site-url": "xbox.com",
       "profile-url": "https://account.xbox.com/en-us/profile?gamertag=$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "YouTube",
       "site-url": "youtube.com",
       "profile-url": "https://www.youtube.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Facebook",
       "site-url": "facebook.com",
       "profile-url": "https://www.facebook.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Instagram",
       "site-url": "instagram.com",
       "profile-url": "https://www.instagram.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Twitter / X",
       "site-url": "x.com",
       "profile-url": "https://x.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "TikTok",
       "site-url": "tiktok.com",
       "profile-url": "https://www.tiktok.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Reddit",
       "site-url": "reddit.com",
       "profile-url": "https://www.reddit.com/user/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "LinkedIn",
       "site-url": "linkedin.com",
       "profile-url": "https://www.linkedin.com/in/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "GitHub",
       "site-url": "github.com",
       "profile-url": "https://github.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "GitLab",
       "site-url": "gitlab.com",
       "profile-url": "https://gitlab.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Steam",
       "site-url": "steamcommunity.com",
       "profile-url": "https://steamcommunity.com/id/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Twitch",
       "site-url": "twitch.tv",
       "profile-url": "https://www.twitch.tv/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Pinterest",
       "site-url": "pinterest.com",
       "profile-url": "https://www.pinterest.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Snapchat",
       "site-url": "snapchat.com",
       "profile-url": "https://www.snapchat.com/add/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "DeviantArt",
       "site-url": "deviantart.com",
       "profile-url": "https://www.deviantart.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "SoundCloud",
       "site-url": "soundcloud.com",
       "profile-url": "https://soundcloud.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Medium",
       "site-url": "medium.com",
       "profile-url": "https://medium.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Stack Overflow",
       "site-url": "stackoverflow.com",
       "profile-url": "https://stackoverflow.com/users/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "MyAnimeList",
       "site-url": "myanimelist.net",
       "profile-url": "https://myanimelist.net/profile/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "PlayStation Network",
       "site-url": "my.playstation.com",
       "profile-url": "https://my.playstation.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Xbox Live",
       "site-url": "xbox.com",
       "profile-url": "https://account.xbox.com/en-us/profile?gamertag=$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "YouTube",
       "site-url": "youtube.com",
       "profile-url": "https://www.youtube.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Facebook",
       "site-url": "facebook.com",
       "profile-url": "https://www.facebook.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Instagram",
       "site-url": "instagram.com",
       "profile-url": "https://www.instagram.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Twitter / X",
       "site-url": "x.com",
       "profile-url": "https://x.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "TikTok",
       "site-url": "tiktok.com",
       "profile-url": "https://www.tiktok.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Reddit",
       "site-url": "reddit.com",
       "profile-url": "https://www.reddit.com/user/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "LinkedIn",
       "site-url": "linkedin.com",
       "profile-url": "https://www.linkedin.com/in/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "GitHub",
       "site-url": "github.com",
       "profile-url": "https://github.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "GitLab",
       "site-url": "gitlab.com",
       "profile-url": "https://gitlab.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Steam",
       "site-url": "steamcommunity.com",
       "profile-url": "https://steamcommunity.com/id/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Twitch",
       "site-url": "twitch.tv",
       "profile-url": "https://www.twitch.tv/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Pinterest",
       "site-url": "pinterest.com",
       "profile-url": "https://www.pinterest.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Snapchat",
       "site-url": "snapchat.com",
       "profile-url": "https://www.snapchat.com/add/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "DeviantArt",
       "site-url": "deviantart.com",
       "profile-url": "https://www.deviantart.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "SoundCloud",
       "site-url": "soundcloud.com",
       "profile-url": "https://soundcloud.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Medium",
       "site-url": "medium.com",
       "profile-url": "https://medium.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Stack Overflow",
       "site-url": "stackoverflow.com",
       "profile-url": "https://stackoverflow.com/users/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "MyAnimeList",
       "site-url": "myanimelist.net",
       "profile-url": "https://myanimelist.net/profile/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "PlayStation Network",
       "site-url": "my.playstation.com",
       "profile-url": "https://my.playstation.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Xbox Live",
       "site-url": "xbox.com",
       "profile-url": "https://account.xbox.com/en-us/profile?gamertag=$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "YouTube",
       "site-url": "youtube.com",
       "profile-url": "https://www.youtube.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Facebook",
       "site-url": "facebook.com",
       "profile-url": "https://www.facebook.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Instagram",
       "site-url": "instagram.com",
       "profile-url": "https://www.instagram.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Twitter / X",
       "site-url": "x.com",
       "profile-url": "https://x.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "TikTok",
       "site-url": "tiktok.com",
       "profile-url": "https://www.tiktok.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Reddit",
       "site-url": "reddit.com",
       "profile-url": "https://www.reddit.com/user/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "LinkedIn",
       "site-url": "linkedin.com",
       "profile-url": "https://www.linkedin.com/in/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "GitHub",
       "site-url": "github.com",
       "profile-url": "https://github.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "GitLab",
       "site-url": "gitlab.com",
       "profile-url": "https://gitlab.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Steam",
       "site-url": "steamcommunity.com",
       "profile-url": "https://steamcommunity.com/id/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Twitch",
       "site-url": "twitch.tv",
       "profile-url": "https://www.twitch.tv/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Pinterest",
       "site-url": "pinterest.com",
       "profile-url": "https://www.pinterest.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Snapchat",
       "site-url": "snapchat.com",
       "profile-url": "https://www.snapchat.com/add/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "DeviantArt",
       "site-url": "deviantart.com",
       "profile-url": "https://www.deviantart.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "SoundCloud",
       "site-url": "soundcloud.com",
       "profile-url": "https://soundcloud.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Medium",
       "site-url": "medium.com",
       "profile-url": "https://medium.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Stack Overflow",
       "site-url": "stackoverflow.com",
       "profile-url": "https://stackoverflow.com/users/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "MyAnimeList",
       "site-url": "myanimelist.net",
       "profile-url": "https://myanimelist.net/profile/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "PlayStation Network",
       "site-url": "my.playstation.com",
       "profile-url": "https://my.playstation.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Xbox Live",
       "site-url": "xbox.com",
       "profile-url": "https://account.xbox.com/en-us/profile?gamertag=$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "YouTube",
       "site-url": "youtube.com",
       "profile-url": "https://www.youtube.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Facebook",
       "site-url": "facebook.com",
       "profile-url": "https://www.facebook.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Instagram",
       "site-url": "instagram.com",
       "profile-url": "https://www.instagram.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Twitter / X",
       "site-url": "x.com",
       "profile-url": "https://x.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "TikTok",
       "site-url": "tiktok.com",
       "profile-url": "https://www.tiktok.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Reddit",
       "site-url": "reddit.com",
       "profile-url": "https://www.reddit.com/user/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "LinkedIn",
       "site-url": "linkedin.com",
       "profile-url": "https://www.linkedin.com/in/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "GitHub",
       "site-url": "github.com",
       "profile-url": "https://github.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "GitLab",
       "site-url": "gitlab.com",
       "profile-url": "https://gitlab.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Steam",
       "site-url": "steamcommunity.com",
       "profile-url": "https://steamcommunity.com/id/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Twitch",
       "site-url": "twitch.tv",
       "profile-url": "https://www.twitch.tv/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Pinterest",
       "site-url": "pinterest.com",
       "profile-url": "https://www.pinterest.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Snapchat",
       "site-url": "snapchat.com",
       "profile-url": "https://www.snapchat.com/add/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "DeviantArt",
       "site-url": "deviantart.com",
       "profile-url": "https://www.deviantart.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "SoundCloud",
       "site-url": "soundcloud.com",
       "profile-url": "https://soundcloud.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Medium",
       "site-url": "medium.com",
       "profile-url": "https://medium.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Stack Overflow",
       "site-url": "stackoverflow.com",
       "profile-url": "https://stackoverflow.com/users/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "MyAnimeList",
       "site-url": "myanimelist.net",
       "profile-url": "https://myanimelist.net/profile/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "PlayStation Network",
       "site-url": "my.playstation.com",
       "profile-url": "https://my.playstation.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Xbox Live",
       "site-url": "xbox.com",
       "profile-url": "https://account.xbox.com/en-us/profile?gamertag=$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "YouTube",
       "site-url": "youtube.com",
       "profile-url": "https://www.youtube.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Facebook",
       "site-url": "facebook.com",
       "profile-url": "https://www.facebook.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Instagram",
       "site-url": "instagram.com",
       "profile-url": "https://www.instagram.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Twitter / X",
       "site-url": "x.com",
       "profile-url": "https://x.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "TikTok",
       "site-url": "tiktok.com",
       "profile-url": "https://www.tiktok.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Reddit",
       "site-url": "reddit.com",
       "profile-url": "https://www.reddit.com/user/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "LinkedIn",
       "site-url": "linkedin.com",
       "profile-url": "https://www.linkedin.com/in/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "GitHub",
       "site-url": "github.com",
       "profile-url": "https://github.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "GitLab",
       "site-url": "gitlab.com",
       "profile-url": "https://gitlab.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Steam",
       "site-url": "steamcommunity.com",
       "profile-url": "https://steamcommunity.com/id/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Twitch",
       "site-url": "twitch.tv",
       "profile-url": "https://www.twitch.tv/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Pinterest",
       "site-url": "pinterest.com",
       "profile-url": "https://www.pinterest.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Snapchat",
       "site-url": "snapchat.com",
       "profile-url": "https://www.snapchat.com/add/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "DeviantArt",
       "site-url": "deviantart.com",
       "profile-url": "https://www.deviantart.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "SoundCloud",
       "site-url": "soundcloud.com",
       "profile-url": "https://soundcloud.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Medium",
       "site-url": "medium.com",
       "profile-url": "https://medium.com/@$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Stack Overflow",
       "site-url": "stackoverflow.com",
       "profile-url": "https://stackoverflow.com/users/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "MyAnimeList",
       "site-url": "myanimelist.net",
       "profile-url": "https://myanimelist.net/profile/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "PlayStation Network",
       "site-url": "my.playstation.com",
       "profile-url": "https://my.playstation.com/$username",
       "username": "$username"
-}
-{
+    }
+  },
+  {
+    "website": {
       "website": "Xbox Live",
       "site-url": "xbox.com",
       "profile-url": "https://account.xbox.com/en-us/profile?gamertag=$username",
